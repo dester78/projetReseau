@@ -1,0 +1,2 @@
+*.gns3project filter=lfs diff=lfs merge=lfs -text
+topologyGNS3ProjetReseau.gns3project filter=lfs diff=lfs merge=lfs -text
